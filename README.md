@@ -1,2 +1,2 @@
-# erafahmad-repo-public-
+# erafahmad-repo
 This is my first GitHub Repository
